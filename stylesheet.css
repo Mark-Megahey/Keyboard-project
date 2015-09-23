@@ -1,0 +1,118 @@
+/************
+General
+************/
+#wrapper{
+  border: solid black 2px;
+  height: 500px;
+  width: 1000px;
+}
+li{
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+  Border: black solid 2px;
+  height: 50px;
+  width: 47px;
+}
+li.back{
+  Border: black solid 2px;
+  height: 50px;
+  width: 90px;
+
+}
+li.caps{
+  Border: black solid 2px;
+  height: 50px;
+  width: 97px;
+
+}
+li.enter{
+  Border: black solid 2px;
+  height: 100px;
+  width: 50px;
+
+}
+li.lshift{
+  Border: black solid 2px;
+  height: 50px;
+  width: 75px;
+
+}
+li.rshift{
+  Border: black solid 2px;
+  height: 50px;
+  width: 130px;
+
+}
+li.lcmd{
+  Border: black solid 2px;
+  height: 50px;
+  width: 60px;
+
+}
+li.space{
+  Border: black solid 2px;
+  height: 50px;
+  width: 300px;
+
+}
+li.rcmd{
+  Border: black solid 2px;
+  height: 50px;
+  width: 60px;
+}
+
+/************
+firstline
+************/
+
+li.toprow{
+  display:inline-block;
+  Border: black solid 2px;
+  height: 25px;
+  width: 50px;
+  margin: 0 5px;
+}
+
+/************
+secondline
+************/
+
+#secondline li{
+  display: inline-block;
+  margin: 5px;
+}
+
+/************
+thirdline
+************/
+
+#thirdline  li{
+  display: inline-block;
+  margin: 5px;
+}
+
+/************
+fourthline
+************/
+
+#fourthline li{
+  display: inline-block;
+}
+
+/************
+fifthline
+************/
+
+#fifthline li{
+  display: inline-block;
+  margin: 5px;
+}
+
+/************
+sixthline
+************/
+
+#sixthline li{
+  display: inline-block;
+}
